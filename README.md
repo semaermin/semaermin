@@ -32,6 +32,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semaermin&show_icons=true&locale=en" alt="semaermin" /></p>
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=semaermin&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semaermin&show_icons=true&theme=radical)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=semaermin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/semaermin/github-readme-stats#gh-dark-mode-only)
