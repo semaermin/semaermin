@@ -32,4 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semaermin&show_icons=true&locale=en" alt="semaermin" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semaermin&show_icons=true&theme=transparent)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semaermin)](https://github.com/semaermin/github-readme-stats)
