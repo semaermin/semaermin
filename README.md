@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with React, Next.js and Laravel."></picture>
+<a href="assets/header-light.svg#gh-light-mode-only"><img src="assets/header-light.svg#gh-light-mode-only" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with React, Next.js and Laravel."></a><a href="assets/header-dark.svg#gh-dark-mode-only"><img src="assets/header-dark.svg#gh-dark-mode-only" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with React, Next.js and Laravel."></a>
 
 <a href="https://www.linkedin.com/in/sema-ermin/"><img src="https://img.shields.io/badge/LinkedIn-sema--ermin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sema.erminn@gmail.com"><img src="https://img.shields.io/badge/Email-sema.erminn%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -8,7 +8,7 @@
 
 </div>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="2+ years at Mobilfon, 15 ERP modules, 8 integrations, 600+ commits across SUNS Technology projects"></picture>
+<a href="assets/stats-light.svg#gh-light-mode-only"><img src="assets/stats-light.svg#gh-light-mode-only" alt="2+ years at Mobilfon, 15 ERP modules, 8 integrations, 600+ commits across SUNS Technology projects"></a><a href="assets/stats-dark.svg#gh-dark-mode-only"><img src="assets/stats-dark.svg#gh-dark-mode-only" alt="2+ years at Mobilfon, 15 ERP modules, 8 integrations, 600+ commits across SUNS Technology projects"></a>
 
 ## About
 
@@ -19,21 +19,21 @@
 
 ## What I'm Building at Mobilfon
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/erp-dark.svg"><img src="assets/erp-light.svg" alt="Device lifecycle in the new ERP: goods receiving, diagnostics, technical service, quality control, sales and returns, on a shared core of warehouse, device history, channel and dealer management and finance, connected to Sahibinden, Letgo, MediaMarkt, Fintegre, BTK, TSE, PhoneCheck and DIA"></picture>
+<a href="assets/erp-light.svg#gh-light-mode-only"><img src="assets/erp-light.svg#gh-light-mode-only" alt="Device lifecycle in the new ERP: goods receiving, diagnostics, technical service, quality control, sales and returns, on a shared core of warehouse, device history, channel and dealer management and finance, connected to Sahibinden, Letgo, MediaMarkt, Fintegre, BTK, TSE, PhoneCheck and DIA"></a><a href="assets/erp-dark.svg#gh-dark-mode-only"><img src="assets/erp-dark.svg#gh-dark-mode-only" alt="Device lifecycle in the new ERP: goods receiving, diagnostics, technical service, quality control, sales and returns, on a shared core of warehouse, device history, channel and dealer management and finance, connected to Sahibinden, Letgo, MediaMarkt, Fintegre, BTK, TSE, PhoneCheck and DIA"></a>
 
 ## Featured Work
 
 <p align="center">
-  <a href="https://saydo.sunstech.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-say-do-dark.svg"><img src="assets/card-say-do-light.svg" alt="Say Do" width="49%"></picture></a>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-suns-cms-dark.svg"><img src="assets/card-suns-cms-light.svg" alt="SUNS CMS" width="49%"></picture>
+  <a href="https://saydo.sunstech.com.tr#gh-light-mode-only"><img src="assets/card-say-do-light.svg#gh-light-mode-only" alt="Say Do" width="49%"></a><a href="https://saydo.sunstech.com.tr#gh-dark-mode-only"><img src="assets/card-say-do-dark.svg#gh-dark-mode-only" alt="Say Do" width="49%"></a>
+  <a href="assets/card-suns-cms-light.svg#gh-light-mode-only"><img src="assets/card-suns-cms-light.svg#gh-light-mode-only" alt="SUNS CMS" width="49%"></a><a href="assets/card-suns-cms-dark.svg#gh-dark-mode-only"><img src="assets/card-suns-cms-dark.svg#gh-dark-mode-only" alt="SUNS CMS" width="49%"></a>
 </p>
 <p align="center">
-  <a href="https://offer.sunstech.com.tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-suns-offer-dark.svg"><img src="assets/card-suns-offer-light.svg" alt="SUNS Offer" width="49%"></picture></a>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mirketgiller-dark.svg"><img src="assets/card-mirketgiller-light.svg" alt="Mirketgiller" width="49%"></picture>
+  <a href="https://offer.sunstech.com.tr#gh-light-mode-only"><img src="assets/card-suns-offer-light.svg#gh-light-mode-only" alt="SUNS Offer" width="49%"></a><a href="https://offer.sunstech.com.tr#gh-dark-mode-only"><img src="assets/card-suns-offer-dark.svg#gh-dark-mode-only" alt="SUNS Offer" width="49%"></a>
+  <a href="assets/card-mirketgiller-light.svg#gh-light-mode-only"><img src="assets/card-mirketgiller-light.svg#gh-light-mode-only" alt="Mirketgiller" width="49%"></a><a href="assets/card-mirketgiller-dark.svg#gh-dark-mode-only"><img src="assets/card-mirketgiller-dark.svg#gh-dark-mode-only" alt="Mirketgiller" width="49%"></a>
 </p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-visa-photo-dark.svg"><img src="assets/card-ai-visa-photo-light.svg" alt="AI Visa Photo Platform" width="49%"></picture>
-  <a href="https://github.com/semaermin/BitirmeProjesiWeb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sermify-dark.svg"><img src="assets/card-sermify-light.svg" alt="Sermify" width="49%"></picture></a>
+  <a href="assets/card-ai-visa-photo-light.svg#gh-light-mode-only"><img src="assets/card-ai-visa-photo-light.svg#gh-light-mode-only" alt="AI Visa Photo Platform" width="49%"></a><a href="assets/card-ai-visa-photo-dark.svg#gh-dark-mode-only"><img src="assets/card-ai-visa-photo-dark.svg#gh-dark-mode-only" alt="AI Visa Photo Platform" width="49%"></a>
+  <a href="https://github.com/semaermin/BitirmeProjesiWeb#gh-light-mode-only"><img src="assets/card-sermify-light.svg#gh-light-mode-only" alt="Sermify" width="49%"></a><a href="https://github.com/semaermin/BitirmeProjesiWeb#gh-dark-mode-only"><img src="assets/card-sermify-dark.svg#gh-dark-mode-only" alt="Sermify" width="49%"></a>
 </p>
 
 <p align="center"><sub>Most of my professional work lives in private company repositories.</sub></p>
@@ -42,12 +42,12 @@
 
 <p align="center"><sub><b>DAILY</b></sub></p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=dark"><img src="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=light" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></picture><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=light" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></picture>
+  <a href="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=light#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=light#gh-light-mode-only" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></a><a href="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=dark#gh-dark-mode-only" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></a><br/>
+  <a href="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=light#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=light#gh-light-mode-only" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></a><a href="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=dark#gh-dark-mode-only" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></a>
 </p>
 <p align="center"><sub><b>ALSO WORKED WITH</b></sub></p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=light" width="300" alt="Next.js, Redux, PostgreSQL, MongoDB, Spring, .NET"></picture>
+  <a href="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=light#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=light#gh-light-mode-only" width="300" alt="Next.js, Redux, PostgreSQL, MongoDB, Spring, .NET"></a><a href="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=dark#gh-dark-mode-only" width="300" alt="Next.js, Redux, PostgreSQL, MongoDB, Spring, .NET"></a>
 </p>
 <p align="center"><sub><b>AI &amp; AUTOMATION</b></sub></p>
 <p align="center">
@@ -78,12 +78,12 @@
 
 ## Journey
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg"><img src="assets/journey-light.svg" alt="2022 Rıtma Teknoloji intern, 2022-23 Algoritim Bilişim, 2023 MS Teknoloji, 2024 Computer Engineering degree, 2024 co-founded SUNS Technology, 2024 Mobilfon"></picture>
+<a href="assets/journey-light.svg#gh-light-mode-only"><img src="assets/journey-light.svg#gh-light-mode-only" alt="2022 Rıtma Teknoloji intern, 2022-23 Algoritim Bilişim, 2023 MS Teknoloji, 2024 Computer Engineering degree, 2024 co-founded SUNS Technology, 2024 Mobilfon"></a><a href="assets/journey-dark.svg#gh-dark-mode-only"><img src="assets/journey-dark.svg#gh-dark-mode-only" alt="2022 Rıtma Teknoloji intern, 2022-23 Algoritim Bilişim, 2023 MS Teknoloji, 2024 Computer Engineering degree, 2024 co-founded SUNS Technology, 2024 Mobilfon"></a>
 
 ## GitHub Activity
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=semaermin&amp;border_radius=18&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=161B22&amp;border=30363D&amp;stroke=30363D&amp;ring=818CF8&amp;fire=E879F9&amp;currStreakNum=F8FAFC&amp;currStreakLabel=818CF8&amp;sideNums=F8FAFC&amp;sideLabels=CBD5E1&amp;dates=94A3B8"><img src="https://streak-stats.demolab.com?user=semaermin&amp;border_radius=18&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=FFFFFF&amp;border=E2E8F0&amp;stroke=E2E8F0&amp;ring=6366F1&amp;fire=D946EF&amp;currStreakNum=0F172A&amp;currStreakLabel=6366F1&amp;sideNums=0F172A&amp;sideLabels=475569&amp;dates=64748B" alt="GitHub contribution streak"></picture>
+  <a href="https://streak-stats.demolab.com?user=semaermin&amp;border_radius=18&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=FFFFFF&amp;border=E2E8F0&amp;stroke=E2E8F0&amp;ring=6366F1&amp;fire=D946EF&amp;currStreakNum=0F172A&amp;currStreakLabel=6366F1&amp;sideNums=0F172A&amp;sideLabels=475569&amp;dates=64748B#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=semaermin&amp;border_radius=18&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=FFFFFF&amp;border=E2E8F0&amp;stroke=E2E8F0&amp;ring=6366F1&amp;fire=D946EF&amp;currStreakNum=0F172A&amp;currStreakLabel=6366F1&amp;sideNums=0F172A&amp;sideLabels=475569&amp;dates=64748B#gh-light-mode-only" alt="GitHub contribution streak"></a><a href="https://streak-stats.demolab.com?user=semaermin&amp;border_radius=18&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=161B22&amp;border=30363D&amp;stroke=30363D&amp;ring=818CF8&amp;fire=E879F9&amp;currStreakNum=F8FAFC&amp;currStreakLabel=818CF8&amp;sideNums=F8FAFC&amp;sideLabels=CBD5E1&amp;dates=94A3B8#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=semaermin&amp;border_radius=18&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=161B22&amp;border=30363D&amp;stroke=30363D&amp;ring=818CF8&amp;fire=E879F9&amp;currStreakNum=F8FAFC&amp;currStreakLabel=818CF8&amp;sideNums=F8FAFC&amp;sideLabels=CBD5E1&amp;dates=94A3B8#gh-dark-mode-only" alt="GitHub contribution streak"></a>
 </p>
 
-<a href="mailto:sema.erminn@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" alt="Let&#x27;s build something useful together. Open to collaborations on ERP, integrations and internal tools."></picture></a>
+<a href="assets/footer-light.svg#gh-light-mode-only"><img src="assets/footer-light.svg#gh-light-mode-only" alt="Let&#x27;s build something useful together. Open to collaborations on ERP, integrations and internal tools."></a><a href="assets/footer-dark.svg#gh-dark-mode-only"><img src="assets/footer-dark.svg#gh-dark-mode-only" alt="Let&#x27;s build something useful together. Open to collaborations on ERP, integrations and internal tools."></a>
