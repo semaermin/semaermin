@@ -1,45 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sema Ermin</h1>
-<h3 align="center">Full Stack Developer | Laravel, PHP & Postman Enthusiast</h3>
+# Hi, I'm Sema
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=semaermin&label=Profile%20views&color=0e75b6&style=flat" alt="semaermin" />
-</p>
+**Full Stack Developer** based in Istanbul. I build ERP interfaces, operation panels and integrations with **React, Next.js and Laravel**.
 
-## 🚀 About Me
-- 🔭 Currently working on **PHP Laravel** and **API Development**
-- 🌱 Learning **Back-End Development** with **.Net Core**
-- 👯 Open to **Freelance collaborations**
-- 👨‍💻 All my projects are available at [GitHub](https://github.com/semaermin)
-- 📫 How to reach me: **sema.erminn@gmail.com**
+- Full Stack Developer at **Mobilfon** — building the React interface of a 15-module ERP (goods receiving, diagnostics, technical service, quality control, sales, returns, warehouse, dealer management, finance)
+- Working on marketplace and regulatory integrations: Sahibinden, Letgo, MediaMarkt, Fintegre, BTK, TSE, PhoneCheck, DIA
+- Co-founder of **SUNS Technology** — client projects, internal tools, AI features and n8n automations
+- I also do requirement analysis: talking to teams, turning their needs into clear development tasks
 
-## 🔧 Technologies & Tools
+## Tech Stack
 
-<p align="center">
-  <a href="https://laravel.com" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="50"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-</p>
+**Frontend:** React · Redux · Next.js · TypeScript · JavaScript · Tailwind CSS  
+**Backend:** PHP · Laravel (Eloquent, Queues/Jobs, Sanctum) · CodeIgniter · REST APIs  
+**Database:** MySQL · PostgreSQL · MongoDB  
+**Testing & Docs:** PHPUnit · Swagger/OpenAPI · Postman  
+**DevOps:** Linux · Nginx · GitHub Actions  
+**Automation & AI:** n8n · AI API integrations · Browser extensions
 
-## 📬 Connect with me
+## Featured Work
 
-<p align="center">
-  <a href="https://linkedin.com/in/sema-ermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sema-ermin" height="40" width="40" /></a>
-  <a href="https://twitter.com/ermin_sema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ermin_sema" height="40" width="40" /></a>
-  <a href="https://instagram.com/sema.ermin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sema.ermin" height="40" width="40" /></a>
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Say Do** | Task tracker that brings Trello and Jira into one place, with a browser extension, mobile support and automatic notes from Google Meet calls | React, Laravel, AI |
+| **Blog CMS** | Blog management panel built from scratch for SUNS Technology and Mirketgiller, now being turned into a standalone product | Laravel, React |
+| **Proposal Wizard** | Clients describe their project through a short question flow and get package, budget and timeline estimates | Laravel, React |
+| **Sermify** | Language learning platform (graduation project) — I built the Laravel admin panel and co-developed the user interface | Laravel |
 
-## 🏆 GitHub Stats
+> Most of my professional work lives in private company repositories.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semaermin" alt="semaermin" />
-</p>
-<!-- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=semaermin" alt="semaermin" />
-</p>-->
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sema-ermin/) · sema.erminn@gmail.com
