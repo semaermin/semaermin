@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="assets/header-light.svg#gh-light-mode-only"><img src="assets/header-light.svg#gh-light-mode-only" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with React, Next.js and Laravel."></a><a href="assets/header-dark.svg#gh-dark-mode-only"><img src="assets/header-dark.svg#gh-dark-mode-only" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with React, Next.js and Laravel."></a>
+<a href="assets/header-light.svg#gh-light-mode-only"><img src="assets/header-light.svg#gh-light-mode-only" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with Laravel, React and Next.js."></a><a href="assets/header-dark.svg#gh-dark-mode-only"><img src="assets/header-dark.svg#gh-dark-mode-only" alt="Hi, I&#x27;m Sema. Full Stack Developer in Istanbul building ERP interfaces, operation panels and integrations with Laravel, React and Next.js."></a>
 
 <a href="https://www.linkedin.com/in/sema-ermin/"><img src="https://img.shields.io/badge/LinkedIn-sema--ermin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sema.erminn@gmail.com"><img src="https://img.shields.io/badge/Email-sema.erminn%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -42,7 +42,7 @@
 
 <p align="center"><sub><b>DAILY</b></sub></p>
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=light#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=light#gh-light-mode-only" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></a><a href="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=dark#gh-dark-mode-only" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></a><br/>
+  <a href="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Creact%2Cts%2Cjs%2Ctailwind%2Cvite&amp;theme=light#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Creact%2Cts%2Cjs%2Ctailwind%2Cvite&amp;theme=light#gh-light-mode-only" alt="PHP, Laravel, MySQL, React, TypeScript, JavaScript, Tailwind CSS, Vite"></a><a href="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Creact%2Cts%2Cjs%2Ctailwind%2Cvite&amp;theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=php%2Claravel%2Cmysql%2Creact%2Cts%2Cjs%2Ctailwind%2Cvite&amp;theme=dark#gh-dark-mode-only" alt="PHP, Laravel, MySQL, React, TypeScript, JavaScript, Tailwind CSS, Vite"></a><br/>
   <a href="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=light#gh-light-mode-only"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=light#gh-light-mode-only" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></a><a href="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=dark#gh-dark-mode-only"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=dark#gh-dark-mode-only" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></a>
 </p>
 <p align="center"><sub><b>ALSO WORKED WITH</b></sub></p>
@@ -63,8 +63,8 @@
 
 | | |
 | --- | --- |
-| **Frontend** | React · JavaScript · TypeScript · Vite · Tailwind CSS · shadcn/ui (Radix) · React Hook Form + Zod · Framer Motion |
 | **Backend** | PHP · Laravel 12 (Eloquent, Queues/Jobs, Sanctum, JWT, Socialite) · Filament v4 · Spatie packages (permission, media library, translatable, activity log, backup) · CodeIgniter · Node.js/Express |
+| **Frontend** | React · JavaScript · TypeScript · Vite · Tailwind CSS · shadcn/ui (Radix) · React Hook Form + Zod · Framer Motion |
 | **Mobile & extensions** | Flutter (Android) · Chrome/Edge extensions (Manifest V3) |
 | **Database & storage** | MySQL · S3/MinIO object storage |
 | **Testing & quality** | PHPUnit (feature & unit) · PHPStan · Laravel Pint · Postman collections · API documentation |
