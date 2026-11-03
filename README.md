@@ -42,12 +42,12 @@
 
 <p align="center"><sub><b>DAILY</b></sub></p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,ts,tailwind,vite,php,laravel,mysql&amp;theme=dark"><img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,vite,php,laravel,mysql&amp;theme=light" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></picture><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,flutter,docker,githubactions,linux,nginx,postman&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nodejs,express,flutter,docker,githubactions,linux,nginx,postman&amp;theme=light" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=dark"><img src="https://skillicons.dev/icons?i=react%2Cjs%2Cts%2Ctailwind%2Cvite%2Cphp%2Claravel%2Cmysql&amp;theme=light" alt="React, JavaScript, TypeScript, Tailwind CSS, Vite, PHP, Laravel, MySQL"></picture><br/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cflutter%2Cdocker%2Cgithubactions%2Clinux%2Cnginx%2Cpostman&amp;theme=light" alt="Node.js, Express, Flutter, Docker, GitHub Actions, Linux, Nginx, Postman"></picture>
 </p>
 <p align="center"><sub><b>ALSO WORKED WITH</b></sub></p>
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,redux,postgres,mongodb,spring,dotnet&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nextjs,redux,postgres,mongodb,spring,dotnet&amp;theme=light" width="300" alt="Next.js, Redux, PostgreSQL, MongoDB, Spring, .NET"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=dark"><img src="https://skillicons.dev/icons?i=nextjs%2Credux%2Cpostgres%2Cmongodb%2Cspring%2Cdotnet&amp;theme=light" width="300" alt="Next.js, Redux, PostgreSQL, MongoDB, Spring, .NET"></picture>
 </p>
 <p align="center"><sub><b>AI &amp; AUTOMATION</b></sub></p>
 <p align="center">
