@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>
+  .blob { animation: drift 9s ease-in-out infinite alternate; }
+  .blob2 { animation: drift 11s ease-in-out infinite alternate-reverse; }
+  .cursor { animation: blink 1.1s steps(1) infinite; }
+  @media (prefers-reduced-motion: reduce) { .blob, .blob2, .cursor { animation: none; } }
+  @keyframes drift { to { transform: translate(-30px, 18px); } }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F5F3FF"/><stop offset="1" stop-color="#EEF2FF"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#D946EF"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#6366F1" opacity=".22"/></pattern>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+  <clipPath id="clip"><rect width="1200" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#dots)"/>
+  <circle class="blob" cx="1060" cy="40" r="150" fill="#6366F1" opacity=".35" filter="url(#blur)"/>
+  <circle class="blob2" cx="700" cy="330" r="130" fill="#D946EF" opacity=".25" filter="url(#blur)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="319" rx="24" fill="none" stroke="#E0E7FF"/>
+
+<text x="64" y="88" font-size="15" font-weight="700" letter-spacing="3" fill="#6366F1">FULL STACK DEVELOPER · ISTANBUL</text>
+<text x="62" y="156" font-size="60" font-weight="800" fill="#0F172A">Hi, I'm <tspan fill="url(#ac)">Sema</tspan></text>
+<text x="64" y="200" font-size="20" fill="#475569">I build ERP interfaces, operation panels and</text>
+<text x="64" y="228" font-size="20" fill="#475569">integrations with React, Next.js and Laravel.</text>
+<rect x="64" y="256" width="66" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="97" y="275.0" text-anchor="middle" font-size="14" font-weight="600" fill="#4338CA">React</text><rect x="138" y="256" width="83" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="179" y="275.0" text-anchor="middle" font-size="14" font-weight="600" fill="#4338CA">Laravel</text><rect x="229" y="256" width="91" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="274" y="275.0" text-anchor="middle" font-size="14" font-weight="600" fill="#4338CA">Filament</text><rect x="328" y="256" width="83" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="369" y="275.0" text-anchor="middle" font-size="14" font-weight="600" fill="#4338CA">Node.js</text><rect x="419" y="256" width="49" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="443" y="275.0" text-anchor="middle" font-size="14" font-weight="600" fill="#4338CA">n8n</text>
+
+<rect x="740" y="48" width="400" height="224" rx="14" fill="#111827" stroke="#1F2937"/>
+<circle cx="764" cy="72" r="6" fill="#FF5F57"/><circle cx="784" cy="72" r="6" fill="#FEBC2E"/><circle cx="804" cy="72" r="6" fill="#28C840"/>
+<text x="940" y="77" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#64748B">sema.ts</text>
+<line x1="740" y1="92" x2="1140" y2="92" stroke="#1F2937"/>
+<text x="764" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#C4B5FD">const </tspan><tspan fill="#93C5FD">sema</tspan><tspan fill="#CBD5E1"> = {</tspan></text><text x="764" y="150" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#CBD5E1">  </tspan><tspan fill="#F9A8D4">role</tspan><tspan fill="#CBD5E1">: </tspan><tspan fill="#86EFAC">&quot;Full Stack Developer&quot;</tspan><tspan fill="#CBD5E1">,</tspan></text><text x="764" y="176" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#CBD5E1">  </tspan><tspan fill="#F9A8D4">at</tspan><tspan fill="#CBD5E1">: [</tspan><tspan fill="#86EFAC">&quot;Mobilfon&quot;</tspan><tspan fill="#CBD5E1">, </tspan><tspan fill="#86EFAC">&quot;SUNS Tech&quot;</tspan><tspan fill="#CBD5E1">],</tspan></text><text x="764" y="202" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#CBD5E1">  </tspan><tspan fill="#F9A8D4">stack</tspan><tspan fill="#CBD5E1">: [</tspan><tspan fill="#86EFAC">&quot;React&quot;</tspan><tspan fill="#CBD5E1">, </tspan><tspan fill="#86EFAC">&quot;Next.js&quot;</tspan><tspan fill="#CBD5E1">, </tspan><tspan fill="#86EFAC">&quot;Laravel&quot;</tspan><tspan fill="#CBD5E1">],</tspan></text><text x="764" y="228" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#CBD5E1">  </tspan><tspan fill="#F9A8D4">focus</tspan><tspan fill="#CBD5E1">: </tspan><tspan fill="#86EFAC">&quot;ERP &amp; integrations&quot;</tspan><tspan fill="#CBD5E1">,</tspan></text><text x="764" y="254" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" xml:space="preserve"><tspan fill="#CBD5E1">};</tspan></text>
+<rect class="cursor" x="785" y="241" width="8" height="17" fill="#6366F1"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10B981"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10B981" stop-opacity=".9"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="598" height="268" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="32" y="1" width="220" height="3" fill="url(#fade)"/>
+<rect x="32" y="30" width="56" height="56" rx="15" fill="url(#g)"/>
+<g transform="translate(60 58)"><path d="M-16 -3 L0 -11 L16 -3 L0 5 Z" fill="#fff"/><path d="M-9 1 V8 C-4 13 4 13 9 8 V1" fill="none" stroke="#fff" stroke-width="3.5" stroke-linejoin="round"/></g>
+<text x="106" y="57" font-size="28" font-weight="700" fill="#0F172A">Sermify</text>
+<text x="107" y="81" font-size="13.5" font-weight="700" letter-spacing="1.6" fill="#10B981">GRADUATION PROJECT</text>
+<text x="32" y="130" font-size="20" fill="#475569">English learning platform with levelled tests, video</text><text x="32" y="159" font-size="20" fill="#475569">questions and a leaderboard. I built the Laravel admin</text><text x="32" y="188" font-size="20" fill="#475569">panel and co-developed the UI.</text>
+<rect x="32" y="214" width="87" height="30" rx="15.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="76" y="234.4" text-anchor="middle" font-size="15" font-weight="600" fill="#4338CA">Laravel</text><rect x="127" y="214" width="69" height="30" rx="15.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="162" y="234.4" text-anchor="middle" font-size="15" font-weight="600" fill="#4338CA">React</text><rect x="204" y="214" width="51" height="30" rx="15.0" fill="#FFFFFF" stroke="#C7D2FE"/><text x="230" y="234.4" text-anchor="middle" font-size="15" font-weight="600" fill="#4338CA">JWT</text>
+</svg>
